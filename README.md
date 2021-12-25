@@ -1,2 +1,2 @@
-# hello-word
+# hello-wolrd
 Como criar um repositório.
